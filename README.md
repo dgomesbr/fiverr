@@ -1,2 +1,2 @@
 # fiverr
-Scripts and Utils for my gigs on fiverr
+Scripts and utilities for my gigs on fiverr
